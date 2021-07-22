@@ -31,13 +31,7 @@ From 2021/04 | [Repo](https://github.com/Qihoo360/dgl-operator)
 ## Patents
 
 ### Processing method, device and equipment for operation task of development machine and storage medium
-
-_开发机操作任务的处理方法、装置、设备以及存储介质_
-
-2020/09/30 | CN202011058788.3 | [Google Patents](https://patents.google.com/patent/CN112035220A/en)
+2020/09/30 | 开发机操作任务的处理方法、装置、设备以及存储介质 | CN202011058788.3 | [Google Patents](https://patents.google.com/patent/CN112035220A/en) 
 
 ### Controlling method, device and equipment for graph neural network distributed training and storage medium
-
-_图神经网络分布式训练控制方法、装置、设备及存储介质_
-
-2020/06 | CN202110740517.4 
+2020/06 | 图神经网络分布式训练控制方法、装置、设备及存储介质 | CN202110740517.4 

@@ -25,7 +25,7 @@ From 2021/04 | [Repo](https://github.com/Qihoo360/dgl-operator)
 ## Talkings
 
 ### DGL Operator and Graph Training
-2021/07/16 | [AutoML and Training Summit 2021 Schedule](https://docs.google.com/document/d/1vGluSPHmAqEr8k9Dmm82RcQ-MVnqbYYSfnjMGB-aPuo/edit) | [YouTube Recording](https://www.youtube.com/watch?v=hlrdWey0RKs&list=PL2gwy7BdKoGd9HQBCz1iC7vyFVN7Wa9N2) 
+2021/07/16 | [AutoML and Training Summit 2021 Schedule](https://docs.google.com/document/d/1vGluSPHmAqEr8k9Dmm82RcQ-MVnqbYYSfnjMGB-aPuo/edit) | [YouTube Recording](https://www.youtube.com/watch?v=hlrdWey0RKs&list=PL2gwy7BdKoGd9HQBCz1iC7vyFVN7Wa9N2) | [Arrikto Blog](https://www.arrikto.com/blog/training-and-automl-summit-recap-part-1/) 
 
 ----
 ## Patents

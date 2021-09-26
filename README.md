@@ -10,10 +10,10 @@ Updated on 2021/07/22
 ----
 ## Projects
 
-### Author
+### Maintaining Open Source 
 
 #### DGL Operator: The DGL Operator makes it easy to run Deep Graph Library (DGL) graph neural network training on Kubernetes
-From 2021/04 | [Repo](https://github.com/Qihoo360/dgl-operator) 
+From 2021/04 | Author | [Repo](https://github.com/Qihoo360/dgl-operator) 
 
 ----
 ## Writings
@@ -35,3 +35,12 @@ From 2021/04 | [Repo](https://github.com/Qihoo360/dgl-operator)
 
 ### Controlling method, device and equipment for graph neural network distributed training and storage medium
 2021/06 | 图神经网络分布式训练控制方法、装置、设备及存储介质 | CN202110740517.4 
+
+----
+## News
+
+### 360开源全球首个图神经网络控制器 赋能算法模型“分钟级”上云
+2021.08.25 | [通信世界](http://www.cww.net.cn/article?id=490330) | [techweb](http://m.techweb.com.cn/article/2021-08-25/2855017.shtml) 
+
+### 图神经网络迎来开源训练控制器，360打通GNN模型训练链路
+2021.08.25 | [今日头条](https://www.toutiao.com/w/i1709042364502019/) 

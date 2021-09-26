@@ -40,7 +40,7 @@ From 2021/04 | Author | [Repo](https://github.com/Qihoo360/dgl-operator)
 ## News
 
 ### 360开源全球首个图神经网络控制器 赋能算法模型“分钟级”上云
-2021.08.25 | [通信世界](http://www.cww.net.cn/article?id=490330) | [techweb](http://m.techweb.com.cn/article/2021-08-25/2855017.shtml) 
+2021/08/25 | [通信世界](http://www.cww.net.cn/article?id=490330) | [techweb](http://m.techweb.com.cn/article/2021-08-25/2855017.shtml) 
 
 ### 图神经网络迎来开源训练控制器，360打通GNN模型训练链路
-2021.08.25 | [今日头条](https://www.toutiao.com/w/i1709042364502019/) 
+2021/08/25 | [今日头条](https://www.toutiao.com/w/i1709042364502019/) 

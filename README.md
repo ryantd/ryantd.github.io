@@ -1,11 +1,12 @@
 # Xiaoyu Zhai
 
-Updated on 2021/07/22
+Updated on 2021/10/12
 
 ## Introduction
 
 - Senior Machine Learning Engineer
 - Kubeflow Member
+- Incoming KubeCon 2021 Speaker
 
 ----
 ## Projects
@@ -24,17 +25,20 @@ From 2021/04 | Author | [Repo](https://github.com/Qihoo360/dgl-operator)
 ----
 ## Talkings
 
+### DGL Operator: Distributed Graph Neural Network Training with DGL and K8s
+2021/12/10 | [KubeCon + CloudNativeCon + Open Source Summit China 2021](https://kccncosschn21eng.sched.com/event/nPOl/dgl-operator-distributed-graph-neural-network-training-with-dgl-and-k8s-xiaoyu-zhai-qihoo-360) 
+
 ### DGL Operator and Graph Training
 2021/07/16 | [AutoML and Training Summit 2021 Schedule](https://docs.google.com/document/d/1vGluSPHmAqEr8k9Dmm82RcQ-MVnqbYYSfnjMGB-aPuo/edit) | [YouTube Recording](https://www.youtube.com/watch?v=hlrdWey0RKs&list=PL2gwy7BdKoGd9HQBCz1iC7vyFVN7Wa9N2) | [Arrikto Blog](https://www.arrikto.com/blog/training-and-automl-summit-recap-part-1/) 
 
 ----
 ## Patents
 
-### Processing method, device and equipment for operation task of development machine and storage medium
-2020/09/30 | 开发机操作任务的处理方法、装置、设备以及存储介质 | CN202011058788.3 | [Google Patents](https://patents.google.com/patent/CN112035220A/en) 
-
 ### Controlling method, device and equipment for graph neural network distributed training and storage medium
 2021/06 | 图神经网络分布式训练控制方法、装置、设备及存储介质 | CN202110740517.4 
+
+### Processing method, device and equipment for operation task of development machine and storage medium
+2020/09/30 | 开发机操作任务的处理方法、装置、设备以及存储介质 | CN202011058788.3 | [Google Patents](https://patents.google.com/patent/CN112035220A/en) 
 
 ----
 ## News

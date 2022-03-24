@@ -35,8 +35,3 @@ From 2021/04 | __Creator__ | [Repo](https://github.com/Qihoo360/dgl-operator)
 ### AutoML and Training Summit 2021
 #### DGL Operator and Graph Training
 2021/07/16 | [Schedule](https://docs.google.com/document/d/1vGluSPHmAqEr8k9Dmm82RcQ-MVnqbYYSfnjMGB-aPuo/edit) | [YouTube Recording](https://www.youtube.com/watch?v=hlrdWey0RKs&list=PL2gwy7BdKoGd9HQBCz1iC7vyFVN7Wa9N2) | [Arrikto Blog](https://www.arrikto.com/blog/training-and-automl-summit-recap-part-1/) 
-
-----
-## Appendix
-
-My Thoughts on Ray: [中文](https://bumpy-storm-bb8.notion.site/Ray-4b94db29ca1b4794bfc2c19b1cb1ef4f)

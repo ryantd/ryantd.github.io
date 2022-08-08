@@ -1,11 +1,12 @@
 # Xiaoyu Zhai
 
-Updated on 2022/03/19
+Updated on 2022/08/08
 
 ## Introduction
 
 - Senior Machine Learning Engineer
 - Ray Community Member
+- Ray Forward Meetup 2022 Speaker
 - Kubeflow Community Member
 - KubeCon + CloudNativeCon 2021 Speaker
 - Kubeflow Training & AutoML Summit 2021 Speaker
@@ -13,8 +14,8 @@ Updated on 2022/03/19
 ----
 ## Projects
 
-### Enscale: An instant distributed computing library based on the Ray Train and Ray Data
-From 2022/03 | __Creator__ | [Repo](https://github.com/ryantd/enscale) 
+### Veloce: A low-code Ray-based parallelization library that makes machine learning computation novel, efficient, and heterogeneous
+From 2022/03 | __Creator__ | [Repo](https://github.com/ryantd/veloce) 
 
 ### DGL Operator: The DGL Operator makes it easy to run Deep Graph Library (DGL) graph neural network training on Kubernetes
 From 2021/04 | __Creator__ | [Repo](https://github.com/Qihoo360/dgl-operator) 
